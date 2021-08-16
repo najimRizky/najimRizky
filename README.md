@@ -1,8 +1,12 @@
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najimRizky&layout=compact&theme=dark) -->
+
+
+
 ## Hello There 🤞
 
 I'm Najim, I'm currently pursuing a bachelor's degree in informatics. I really like the world of computer-based technology. For now, the scope that I am currently/often doing is website development, both front-end and back-end.
 
-![](https://komarev.com/ghpvc/?username=najimRizky&color=red)
 
 ### Here's all my work:
 
@@ -15,17 +19,5 @@ I'm Najim, I'm currently pursuing a bachelor's degree in informatics. I really l
 7. [Lemo (Team Project)](http://lemobeta.000webhostapp.com/)
 8. [Gema (Team Project)](http://gemabeta.000webhostapp.com/)
 
-<!--
-**najimRizky/najimRizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://komarev.com/ghpvc/?username=najimRizky&color=red) <br/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najimRizky&hide=contribs,prs&theme=gruvbox) 
