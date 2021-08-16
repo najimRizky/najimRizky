@@ -2,6 +2,8 @@
 
 I'm Najim, I'm currently pursuing a bachelor's degree in informatics. I really like the world of computer-based technology. For now, the scope that I am currently/often doing is website development, both front-end and back-end.
 
+![](https://komarev.com/ghpvc/?username=najimRizky&color=red)
+
 ### Here's all my work:
 
 1. [Covid-19 Info Indonesia](https://covid-19-indonesia.vercel.app/)
