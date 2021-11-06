@@ -7,7 +7,7 @@
 
 I'm Najim, I'm currently pursuing a bachelor's degree in informatics. I really like the world of computer-based technology. For now, the scope that I am currently/often doing is website development, both front-end and back-end.
 
-To find out more about me, please visit my personal website [https://nazky.vercel.app](https;//nazky.vercel.app)
+To find out more about me, please visit my personal website at <a href="https://nazky.vercel.app" target="_blank">https://nazky.vercel.app</a>
 
 
 
