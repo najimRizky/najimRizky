@@ -5,7 +5,7 @@
 
 ## Hello There 🤞
 
-I'm Najim, I'm currently pursuing a bachelor's degree in informatics. I really like the world of computer-based technology. For now, the scope that I am currently/often doing is website development, both front-end and back-end.
+A person who likes technology. My current specialty is web development (front-end), but I also have knowledge and experience in other subject such as mobile apps, machine learning, and game development. When I encounter a problem, I like to find the most efficient way to solve it. Being able to work in a team is an interesting challenge for me. I also have a good passion to explore new things.
 
 To find out more about me, please visit my personal website at <a href="https://bit.ly/nazky-site" target="_blank">My personal site</a>
 
