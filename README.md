@@ -12,4 +12,5 @@ To find out more about me, please visit my personal website at <a href="https://
 
 
   ![](https://komarev.com/ghpvc/?username=najimRizky&color=red) <br/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najimRizky&hide=contribs,prs&theme=gruvbox) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najimRizky&layout=compact&theme=gruvbox) <br/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najimRizky&hide=contribs,prs&theme=gruvbox)  
