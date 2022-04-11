@@ -3,7 +3,7 @@
 
 
 
-## Hello There
+## Hello There ✌
 
 A person who likes technology. My current specialty is web development (front-end), but I also have knowledge and experience in other subject such as mobile apps, machine learning, and game development. When I encounter a problem, I like to find the most efficient way to solve it. Being able to work in a team is an interesting challenge for me. I also have a good passion to explore new things.
 
