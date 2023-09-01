@@ -5,9 +5,9 @@
 
 ## Hello There ✌
 
-A person who likes technology. My current specialty is web development (front-end), but I also have knowledge and experience in other subject such as mobile apps, machine learning, and game development. When I encounter a problem, I like to find the most efficient way to solve it. Being able to work in a team is an interesting challenge for me. I also have a good passion to explore new things.
+As a recent graduate of Universitas Multimedia Nusantara, majoring in informatics, I am passionate about software development, with a focus on both front-end and back-end. With 1.5 years of work experience in this field, I have had the opportunity to contribute to numerous projects, honing my skills in various technology stacks. My expertise lies in JavaScript/TypeScript environments, utilizing technologies such as React, Express, and Next.js. However, I am also well-versed in other tech stacks. I possess a critical thinking mindset and actively seek opportunities to enhance my skills through online courses and personal projects, consistently striving to broaden my knowledge base and stay up-to-date with the latest industry trends.
 
-To find out more about me, please visit my personal website at <a href="https://nazky.site" target="_blank">My personal site</a>
+To find out more about me, please visit my personal website at <a href="https://najim-rizky.com" target="_blank">My personal site</a>
 
 
 
